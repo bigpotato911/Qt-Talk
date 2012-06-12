@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logol.png</file>
+        <file>images/clear.png</file>
+        <file>images/font.png</file>
+        <file>images/pic.png</file>
+        <file>images/transfer_file.png</file>
+        <file>images/music_share.png</file>
+        <file>images/voice.png</file>
+        <file>images/hide.png</file>
+        <file>images/show.png</file>
+    </qresource>
+</RCC>
